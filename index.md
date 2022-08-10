@@ -83,12 +83,21 @@ Website of Markdown inventor John Gruber. Contains basics and syntax that will w
 * [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [website]\
 GitHub's guide on writing "GitHub-Flavored Markdown" (they're own variant on the original Markdown spec).
 
+* [GitHub Pages](https://pages.github.com/) [website]\
+Easily create web sites from simple Markdown and/or HTML/CSS/JS. Pretty neat and free (all you need is a free GitHub account) - this page is itself a GitHub Pages page.
+
 See also [_Writing_](#writing) above.
 
 ### Python
 
 * [_Tiny Python Projects_](https://www.manning.com/books/tiny-python-projects) by Ken Youens-Clark [book, $]\
 Currently my favorite intro-to-Python book. A series of fun test-driven projects, with accompanying YouTube videos if you want them.
+
+* [Python documentation](https://docs.python.org/3/) [website]\
+Official docs on [python.org](http://python.org). 
+Indespensible if you're writing any Python. Especially:
+  - [Python Library Reference](https://docs.python.org/3/library/)
+  - [The Python Language Reference](https://docs.python.org/3/reference/)
 
 * [Flask](https://flask.palletsprojects.com/) [framework]\
 Flask is an extremely popular framework for creating Python-driven websites and web applications.
