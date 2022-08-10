@@ -2,7 +2,7 @@
 
 Books and online resources to help you get started "drinking from the firehose"! I'll try to favor free resources here, and will note with "$" when they cost something. Check back here often, as I'll be updating this list as I recall or rediscover useful resources I think can help you. If there's something you'd like to learn more about, or a link you think would benefit others, please let me know.
 
-Contents: [General topics](#general-topics) [HTML & CSS](#html--css) [Java](#java) [JavaScript](#javascript) [Markdown](#markdown) [Python](#python)
+Contents: [General topics](#general-topics) &bull; [HTML & CSS](#html--css) &bull; [Java](#java) &bull; [JavaScript](#javascript) &bull; [Markdown](#markdown) &bull; [Python](#python)
 
 ### General topics
 
