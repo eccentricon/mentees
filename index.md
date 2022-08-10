@@ -2,7 +2,7 @@
 
 Books and online resources to help you get started "drinking from the firehose"! I'll try to favor free resources here, and will note with "$" when they cost something. Check back here often, as I'll be updating this list as I recall or rediscover useful resources I think can help you. If there's something you'd like to learn more about, or a link you think would benefit others, please let me know.
 
-**Contents:** [General topics](#general-topics) &bull; [HTML & CSS](#html--css) &bull; [Java](#java) &bull; [JavaScript](#javascript) &bull; [Markdown](#markdown) &bull; [Python](#python)
+Contents: [General topics](#general-topics) [HTML & CSS](#html--css) [Java](#java) [JavaScript](#javascript) [Markdown](#markdown) [Python](#python)
 
 ### General topics
 
@@ -49,6 +49,7 @@ Resource list supporting [The Complete 2022 Web Development Bootcamp](https://ww
 
 * [w3schools.com](https://www.w3schools.com/cssref/css_selectors.asp) [website]\
 Tutorials and reference lists I've been using for years, mostly:
+
   - [HTML element reference](https://www.w3schools.com/tags/default.asp)
   - [CSS reference](https://www.w3schools.com/cssref/default.asp)
   - [CSS selector reference](https://www.w3schools.com/cssref/css_selectors.asp)
@@ -96,6 +97,7 @@ Currently my favorite intro-to-Python book. A series of fun test-driven projects
 * [Python documentation](https://docs.python.org/3/) [website]\
 Official docs on [python.org](http://python.org). 
 Indespensible if you're writing any Python. Especially:
+
   - [Python Library Reference](https://docs.python.org/3/library/)
   - [The Python Language Reference](https://docs.python.org/3/reference/)
 
