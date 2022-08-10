@@ -27,7 +27,7 @@ DevDocs combines API documentation from multiple sources into a single, organize
 
 #### Writing
 
-Love to write, hate to write… There's no escaping it: email, requirements, design specs, code comments, user guides - it's all part of programming life. You'll write way more prose than code. And a software engineer who can write well has a super-power over colleagues who cannot (read "more valuable to employers").
+Love to write, hate to write… There's no escaping it: email, requirements, design specs, code comments, user guides - it's all part of a programmer's life. You'll write way more prose than code. And a software engineer who can write well has a super-power over colleagues who cannot (read "more valuable to employers").
 
 * [Google developer documentation style guide](https://developers.google.com/style/) [website]\
 Keep this writing reference handy; it'll dig you out of many writing dilemmas.
