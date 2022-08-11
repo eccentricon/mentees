@@ -11,7 +11,12 @@ General resources not specific to any language.
 #### Source control
 
 * [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub [book]\
-A good and thorough intro to Git (source code control) by the founder of GitHub. Free online book.
+  A good and thorough intro to Git (source code control) by the founder of GitHub. Free online book available for download in multiple formats, or
+  read online. The first couple of chapters alone will make everything about Git a lot clearer.
+
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) from GitHub [PDF]\
+  I also like this single-page [Git cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) from 
+  http://rogerdudler.github.io/git-guide/ (which is also a nice and quick guide to Git basics if you're in a hurry).
 
 #### Time management
 
