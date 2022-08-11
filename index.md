@@ -16,7 +16,8 @@ General resources not specific to any language.
 
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) from GitHub [PDF]\
   I also like this single-page [Git cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) from 
-  http://rogerdudler.github.io/git-guide/ (which is also a nice and quick guide to Git basics if you're in a hurry).
+  [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) (which is also a nice and quick guide to Git basics if you're
+  in a hurry).
 
 #### Time management
 
