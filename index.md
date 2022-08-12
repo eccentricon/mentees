@@ -22,14 +22,20 @@ General resources not specific to any language.
 #### Time management
 
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) by Paul Graham [blog post]\
-Influential blog post on managing your time as a developer (maker). Takeaway: Try scheduling blocks of time on your calendar for focused, uninterrupted development ("maker time").
+  Influential blog post on managing your time as a developer (maker). Takeaway: Try scheduling blocks of time on your calendar for focused, 
+  uninterrupted development ("maker time").
 
 #### Computing and programming
+
+* [Stack Overflow](https://stackoverflow.com/questions) [website]\
+  The most popular question-and-answer forum for programmers. Whatever problem you're trying to solve, it's likely someone else tried to solve 
+  the same problem, asked on Stack Overflow, and got one or more answers (which are ranked by popularity). Many, _many_ technologists use this site,
+  often several times a week. When you're jammed, this should be your second stop (after a Google search).
 
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) by Joel Spolsky [blog post]
 
 * [devdocs.io](http://devdocs.io) [website]\
-DevDocs combines API documentation from multiple sources into a single, organized, and searchable interface.
+  DevDocs combines API documentation from multiple sources into a single, organized, and searchable interface.
 
 #### Writing
 
