@@ -64,6 +64,15 @@ General resources not specific to any language, including for [source control](#
   with seasoned engineers. Design patterns are really worth studying and knowing because they'll help you design your code in ways that will save 
   headaches down the road. This book is a great introduction to the topic; it's been recommended to me many times over the years by experienced
   software engineers.
+  
+* [_Extreme Programming Explained: Embrace Change_](https://smile.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0)
+  by Kent Beck and Cynthia Andres [book, $]\
+  A short and powerful book on the software engineering process, and one of my favorites. This seminal book kicked off the
+  [Agile](https://en.wikipedia.org/wiki/Agile_software_development) programming movement.
+  Worth reading if only for the "cost of change" discussion (priceless lesson).[^xp-first]
+
+[^xp-first]: I'm only familiar with the [first edition](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416), but I
+read that the second edition is quite good too.
 
 #### Writing
 
