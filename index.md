@@ -11,7 +11,7 @@ General resources not specific to any language, including for [source control](#
 
 #### Source control
 
-* [Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub [book]\
+* [_Pro Git_](https://git-scm.com/book/en/v2) by Scott Chacon and Ben Straub [book]\
   A good and thorough intro to Git (source code control) by the founder of GitHub. Free online book available for download in multiple formats, or
   read online. The first couple of chapters alone will make everything about Git a lot clearer.
 
