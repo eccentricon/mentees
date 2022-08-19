@@ -37,6 +37,26 @@ General resources not specific to any language.
 * [devdocs.io](http://devdocs.io) [website]\
   DevDocs combines API documentation from multiple sources into a single, organized, and searchable interface.
 
+##### Some recommended general programming books
+
+* [_Cracking the Coding Interview_](https://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell [book, $]\
+  This is a very well-known and popular book (in its 6th edition as of this writing), filled with programming problems (and solutions),
+  that will serve you well, and not only in preparing for coding interviews. There's lots to be learned from studying these programming
+  problems, and porting them to whatever language you're working in. Many touch on classic computer science problems.
+  
+* [_Head First Design Patterns_](https://smile.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) by Eric Freeman and Elisabeth Robson 
+  [book, $]\
+  "Design patterns" are time-proven solutions to common programming problems. They're given shorthand names like "Model-View-Controller" and
+  "Factory" and "Singleton" and "Visitor" that you'll often hear in conversation with seasoned engineers. They're really worth studying and knowing 
+  because they'll help you design your code in ways that will save headaches down the road. This book is a great introduction to the topic; it's 
+  been recommended to me many times over the years by experienced software engineers.
+
+<!-- TODO:
+* Efficiency and performance
+* Guerrilla testing
+* User stories
+-->
+
 #### Writing
 
 Love to write, hate to write… There's no escaping it: email, requirements, design specs, code comments, user guides - it's all part of a programmer's life. You'll write way more prose than code. And a software engineer who can write well has a super-power over colleagues who cannot (read "more valuable to employers").
