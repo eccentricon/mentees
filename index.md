@@ -71,8 +71,7 @@ General resources not specific to any language, including for [source control](#
   [Agile](https://en.wikipedia.org/wiki/Agile_software_development) programming movement.
   Worth reading if only for the "cost of change" discussion (priceless lesson).[^xp-first]
 
-[^xp-first]: I'm only familiar with the [first edition](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416), but I
-read that the second edition is quite good too.
+[^xp-first]: I'm only familiar with the [first edition](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416), but I read that the second edition is quite good too.
 
 #### Writing
 
