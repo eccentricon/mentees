@@ -6,7 +6,8 @@ Contents: [General topics](#general-topics) &bull; [HTML & CSS](#html--css) &bul
 
 ### General topics
 
-General resources not specific to any language.
+General resources not specific to any language, including for [source control](#source-control), [time management](#time-management),
+[computing and programming](#computing-and-programming), and [writing](#writing).
 
 #### Source control
 
