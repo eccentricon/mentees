@@ -38,9 +38,15 @@ General resources not specific to any language, including for [source control](#
 * [devdocs.io](http://devdocs.io) [website]\
   DevDocs combines API documentation from multiple sources into a single, organized, and searchable interface.
 
+* [Guerrilla Testing with Usability Cafe](https://youtu.be/0YL0xoSmyZI) [video]\
+  Discovering bugs and getting feedback on your app as early as possible is huge - the longer you wait, the more costly (difficult) it is to
+  make changes. Guerrilla testing is an informal technique to get feedback from real users and uncover the most important problems with the
+  least amount effort. (If you want to dive deeper, check out Steve Krug's
+  [_Rocket Surgery Made Easy_](https://sensible.com/rocket-surgery-made-easy/).)
+
+
 <!-- TODO:
 * Efficiency and performance
-* Guerrilla testing
 * User stories
 -->
 
