@@ -37,6 +37,12 @@ General resources not specific to any language.
 * [devdocs.io](http://devdocs.io) [website]\
   DevDocs combines API documentation from multiple sources into a single, organized, and searchable interface.
 
+<!-- TODO:
+* Efficiency and performance
+* Guerrilla testing
+* User stories
+-->
+
 ##### Some recommended general programming books
 
 * [_Cracking the Coding Interview_](https://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell [book, $]\
@@ -46,16 +52,11 @@ General resources not specific to any language.
   
 * [_Head First Design Patterns_](https://smile.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) by Eric Freeman and Elisabeth Robson 
   [book, $]\
-  "Design patterns" are time-proven solutions to common programming problems. They're given shorthand names like "Model-View-Controller" and
-  "Factory" and "Singleton" and "Visitor" that you'll often hear in conversation with seasoned engineers. They're really worth studying and knowing 
-  because they'll help you design your code in ways that will save headaches down the road. This book is a great introduction to the topic; it's 
-  been recommended to me many times over the years by experienced software engineers.
-
-<!-- TODO:
-* Efficiency and performance
-* Guerrilla testing
-* User stories
--->
+  "Design patterns" are time-proven solutions to common programming problems, solutions engineers have evolved over the years. 
+  They're given shorthand names like "Model-View-Controller" and "Factory" and "Singleton" and "Visitor" that you'll often hear in conversation 
+  with seasoned engineers. Design patterns are really worth studying and knowing because they'll help you design your code in ways that will save 
+  headaches down the road. This book is a great introduction to the topic; it's been recommended to me many times over the years by experienced
+  software engineers.
 
 #### Writing
 
