@@ -44,10 +44,13 @@ General resources not specific to any language, including for [source control](#
   least amount effort. (If you want to dive deeper, check out Steve Krug's
   [_Rocket Surgery Made Easy_](https://sensible.com/rocket-surgery-made-easy/).)
 
+* [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories) [website]\
+  An [Agile](https://en.wikipedia.org/wiki/Agile_software_development) technique for quickly capturing requirements. User stories are
+  short, formulaic descriptions of desired features or capabilities, written from the perspective of the person (role) who wants it.
+  A good set of user stories succinctly describes the features and capabilities you need to include in your application.
 
 <!-- TODO:
 * Efficiency and performance
-* User stories
 -->
 
 ##### Some recommended general programming books
