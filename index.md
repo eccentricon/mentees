@@ -53,6 +53,16 @@ General resources not specific to any language, including for [source control](#
 * Efficiency and performance
 -->
 
+##### Debugging
+
+* Browser developer tools:
+  * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) [doc website]
+  * [Firefox DevTools User Docs](https://firefox-dev.tools/) [doc website]
+  * [Microsoft Edge DevTools documentation](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/landing/) [doc website]
+  * [Safari Web Development Tools](https://developer.apple.com/safari/tools/) [doc website][^safari-enable]
+    
+[^safari-enable]: Note that you have to explicitly [enable this in Safari](https://developer.apple.com/library/archive/documentation/NetworkingInternetWeb/Conceptual/Web_Inspector_Tutorial/EnableWebInspector/EnableWebInspector.html).
+
 ##### Some recommended general programming books
 
 * [_Cracking the Coding Interview_](https://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell [book, $]\
