@@ -49,6 +49,9 @@ General resources not specific to any language, including for [source control](#
   short, formulaic descriptions of desired features or capabilities, written from the perspective of the person (role) who wants it.
   A good set of user stories succinctly describes the features and capabilities you need to include in your application.
 
+* [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Eric Trautman [blog]\
+  Sage advice about the difficult path you're on, and how to persevere and succeed.
+
 <!-- TODO:
 * Efficiency and performance
 -->
