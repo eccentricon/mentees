@@ -1,6 +1,6 @@
 ## Ted's resources for mentees
 
-Books and online resources to help you get started "drinking from the firehose"! I'll try to favor free resources here, and will note with "$" when they cost something. Check back here often, as I'll be updating this list as I recall or rediscover useful resources I think can help you. If there's something you'd like to learn more about, or a link you think would benefit others, please let me know.
+Books and online resources to help you get started "drinking from the firehose"! I'll try to favor free resources here, and will note with "$" when they cost something. Check back here often, as I'll be updating this list as I recall or rediscover useful resources I think can help you. If there's something you'd like to learn more about, or a link you think would benefit others, please let me know. [N.B. 🐝 means newer content.]
 
 Contents: [General topics](#general-topics) &bull; [HTML & CSS](#html--css) &bull; [Java](#java) &bull; [JavaScript](#javascript) &bull; [Markdown](#markdown) &bull; [Python](#python)
 
@@ -49,7 +49,7 @@ General resources not specific to any language, including for [source control](#
   short, formulaic descriptions of desired features or capabilities, written from the perspective of the person (role) who wants it.
   A good set of user stories succinctly describes the features and capabilities you need to include in your application.
 
-* [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Eric Trautman [blog]\
+* 🐝 [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Eric Trautman [blog]\
   Sage advice about the difficult path you're on, and how to persevere and succeed.
 
 <!-- TODO:
