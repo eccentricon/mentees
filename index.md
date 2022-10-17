@@ -139,7 +139,7 @@ Javadocs on the SDK libraries from Oracle's commercial distribution.
 Authoritative reference on the language with excellent tutorials, from the Mozilla Developer Network.
 
 * 🐝 [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann on Udemy [online course $] 🐝 \
-i've taken and surveyed a _lot_ of online training courses, and this is **one of the best** I've found. Very deep dive into JavaScript, with a lot of fun projects throughout.
+I've taken and surveyed a _lot_ of online training courses, and this is **one of the best** I've found. Very deep dive into JavaScript, with a lot of fun projects throughout. Expect to pay around $25 - totally worth it (you get a _lot_ of content for this!)
 
 * [_Eloquent JavaScript_](https://eloquentjavascript.net/) by Marijn Haverbeke [book]\
 Highly praised by many experts, freely available online.
