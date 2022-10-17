@@ -19,6 +19,10 @@ General resources not specific to any language, including for [source control](#
   I also like this single-page [Git cheat sheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) from 
   [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) (which is also a nice and quick guide to Git basics if you're
   in a hurry).
+  
+* 🐝 [Learn Git Branching](https://learngitbranching.js.org/) [website] 🐝 \
+  This JavaScript-based online tutorial is a great intro to branching in Git. Branching is super powerful source control feature, and Git
+  makes it particularly easy.
 
 #### Time management
 
