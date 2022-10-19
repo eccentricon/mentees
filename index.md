@@ -147,6 +147,11 @@ Highly praised by many experts, freely available online.
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [YouTube channel]\
 Nice YT tutorial on JavaScript, and other frameworks.
 
+* 🐝 JavaScript internals: 🐝 
+  * [What is the JavaScript Engine and How It Works](https://www.htmlgoodies.com/javascript/what-is-the-javascript-engine-and-how-it-works/) by 
+Tariq Siddiqui. A quick survey of the engines powering each major browser, as well as how the compiler, interpreter, and JIT compilation works.
+  * [JavaScript Execution Context – How JS Works Behind The Scenes](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/) by Victor Ikechukwu. Great overview of execution contexts, hoisting, and more.
+
 ### Markdown
 
 * [Daring Fireball](https://daringfireball.net/projects/markdown/) [website]\
